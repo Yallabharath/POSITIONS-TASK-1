@@ -1,0 +1,32 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.main{
+    margin: 100px;
+}
+.item-1{
+    position: relative;
+    top: 0px;
+}
+.item{
+    display: inline-block;
+    position: relative;
+    padding: 8px;
+}
+p{
+    position: absolute;
+    top: 2%;
+    left: 30;
+    background-color: #000;
+    font-style: normal;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    width: 40%  
+    
+    
+}
